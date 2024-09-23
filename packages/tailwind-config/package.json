@@ -1,0 +1,12 @@
+{
+  "name": "@nozna/tailwind-config",
+  "version": "0.1.0",
+  "exports": {
+    ".": "./tailwind.config.ts"
+  },
+  "devDependencies": {
+    "@nozna/typescript-config": "workspace:*",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
